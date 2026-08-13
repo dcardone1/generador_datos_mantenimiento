@@ -1,0 +1,21 @@
+tipo_activo_id,nombre,categoria
+1,Área/Sector,Estructural
+2,Bomba centrífuga,Hidráulico/Mecánico
+3,Bomba hidráulica,Hidráulico
+4,Motor eléctrico CC,Eléctrico
+5,Motor eléctrico AC,Eléctrico
+6,Motor diesel,Combustión
+7,Motor hidráulico,Hidráulico
+8,Transformador,Eléctrico
+9,Generador eléctrico,Eléctrico
+10,Pistón hidráulico,Hidráulico
+11,Compresor de tornillo,Mecánico
+12,Compresor a pistón,Mecánico
+13,Cinta transportadora,Mecánico
+14,Variador de frecuencia,Eléctrico/Electrónico
+15,Tablero distribución eléctrica,Eléctrico
+16,Tablero de control,Eléctrico/Electrónico
+17,Electroválvula,Eléctrico/Mecánico
+18,Válvula esclusa,Mecánico
+19,Puente grúa,Mecánico
+20,Malacate,Mecánico
